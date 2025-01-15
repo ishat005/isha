@@ -15,9 +15,10 @@ Welcome to my GitHub profile! I'm a passionate fresher with 1 year of internship
 - Tools & Frameworks: Git, VS Code, Tailwind, Bootstrap, Sass
 
 ## 🌟 Projects
-Here are some projects I've worked on:
-1. **[Project Name](#)**: Brief description of what the project does.
-2. **[Project Name](#)**: Brief description of what the project does.
+
+**Kai Notifications**:  Implemented a thorough notifying system, error-handling features, and business logic for the KAI AI Platform. My colleagues and I worked as a team of frontend 
+and backend engineers to complete the remaining portions of the project. As a software developer, I worked on the front end.Implemented a thorough notifying system, error-handling features, and business logic for the KAI AI Platform. My colleagues and I worked as a team of frontend and backend engineers to complete the remaining portions of the project. As a software developer, I worked on the front end.
+
 
 ## 📫 Contact Me
 - Email: eishat915@gmail.com
